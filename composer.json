@@ -1,0 +1,15 @@
+{
+    "name": "datatables/plugins",
+    "type": "library",
+    "description": "A composer-ified version of the DataTables Plugins",
+    "authors": [
+        {
+            "name": "SpryMedia",
+            "homepage": "http://sprymedia.co.uk/"
+        },
+        {
+            "name": "NeoNexus DeMortis",
+            "homepage": "https://github.com/neonexus"
+        }
+    ]
+}
